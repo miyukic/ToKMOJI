@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ToKMOJI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ToKMOJI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
